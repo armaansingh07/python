@@ -1,4 +1,4 @@
-num = 29
+num = int(input("Enter a number to check if it is prime: "))
 is_prime = True
 
 if num > 1:
